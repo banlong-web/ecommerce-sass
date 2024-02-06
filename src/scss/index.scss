@@ -1,0 +1,11 @@
+@import './variables';
+@import './mixins';
+@import './base';
+
+@import './components/header';
+@import './components/footer';
+@import './components/heroslider';
+
+@import './components/section';
+@import './components/product-card';
+@import './components/_catalog.scss'

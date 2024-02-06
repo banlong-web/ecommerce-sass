@@ -1,0 +1,19 @@
+.section {
+    margin-bottom: 80px;
+
+    & > * ~ * {
+        margin-top: 70px;
+    }
+
+    &_title {
+        font-size: 2rem;
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+    .banner_sale {
+        img {
+            width: 100%;
+        }
+    }
+}
