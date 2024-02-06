@@ -1,0 +1,49 @@
+$main-bg: #fff;
+$main-color: #89CFF0;
+
+$button-bg-color: #89CFF0;
+$button-bg-color-hover: #89cff0c0;
+$border-radius-button: 5px;
+
+$border-color: #cacaca;
+
+$text-main-color: #4c4b63;
+$text-second-color: #000;
+$text-white: #fff;
+
+$height-header: 90px;
+$height-header-tablet: 70px;
+$height-header-mobile: 40px;
+$height-header-shrink: 60px;
+
+
+$box-shadow: 0 0 20px #cacaca;
+
+$colors: (
+    'Dark teal': #007672,
+    'Light teal': #6bcaba,
+    'blue': #89CFF0,
+    'pink': pink,
+    'orange': orange,
+    'Main': $main-color
+);
+
+$opacity: (
+    '4%': rgba(255, 255, 255, 0.04),
+    '8%': rgba(255, 255, 255, 0.08),
+    '12%': rgba(255, 255, 255, 0.12),
+    '16%': rgba(255, 255, 255, 0.16),
+    '20%': rgba(255, 255, 255, 0.2),
+    '24%': rgba(255, 255, 255, 0.24),
+    '32%': rgba(255, 255, 255, 0.32),
+    '40%': rgba(255, 255, 255, 0.40),
+    '48%': rgba(255, 255, 255, 0.48),
+    '56%': rgba(255, 255, 255, 0.56),
+    '72%': rgba(255, 255, 255, 0.72),
+);
+
+$mobile-width: 600px;
+$small-laptop: 1200px;
+$tablet-width: 1024px;
+
+$numbers : (0, 1, 2, 3, 4, 5, 6, 7, 8);
